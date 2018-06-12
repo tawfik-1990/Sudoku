@@ -1,6 +1,6 @@
 # Sudoku
 # Raji Hadj Salah(raji.hadj-salah@stud.hs-ruhrwest.de)
-# Tawfik Bouguerba(tawfik-bouguerba@stud.hs-ruhrwest.de)
+# Tawfik Bouguerba(tawfik.bouguerba@stud.hs-ruhrwest.de)
 # Wissenschaftliche Simulation
 
 # HRW, 2017
