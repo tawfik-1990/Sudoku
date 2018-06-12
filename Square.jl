@@ -2,14 +2,10 @@
 # Raji Hadj Salah(raji.hadj-salah@stud.hs-ruhrwest.de)
 # Tawfik Bouguerba(tawfik-bouguerba@stud.hs-ruhrwest.de)
 # Wissenschaftliche Simulation
-# Herr Prof. Dr. Jürgen Vorloeper
+
 # HRW, 2017
 
-# sudoku four square für das 3 aufgabe
-# Aufgabe 3.1 : Sudoku Four Square
-#Skript test : include("Square.jl")
-#              sudokuSquare(1) oder (2)
-
+          
 import HRW
 
 

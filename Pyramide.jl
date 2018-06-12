@@ -2,14 +2,11 @@
 # Raji Hadj Salah(raji.hadj-salah@stud.hs-ruhrwest.de)
 # Tawfik Bouguerba(tawfik-bouguerba@stud.hs-ruhrwest.de)
 # Wissenschaftliche Simulation
-# Herr Prof. Dr. Jürgen Vorloeper
+
 # HRW, 2017
 
 
-# sudoku Four Pyramide für das 3 aufgabe
-# Aufgabe 3.2 : Sudoku Pyramide
-#Skript test : include("Pyramide.jl")
-#              Pyramide(1) oder (2)
+
 
 import HRW
 

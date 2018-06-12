@@ -2,13 +2,11 @@
 # Raji Hadj Salah(raji.hadj-salah@stud.hs-ruhrwest.de)
 # Tawfik Bouguerba(tawfik-bouguerba@stud.hs-ruhrwest.de)
 # Wissenschaftliche Simulation
-# Herr Prof. Dr. Jürgen Vorloeper
+
 # HRW, 2017
 
 
-# Aufgabe 1 :  sudoku
-#Skript test : include("Sudoku.jl")
-#              sudoku(1) oder (2)
+
 
 import HRW
 
